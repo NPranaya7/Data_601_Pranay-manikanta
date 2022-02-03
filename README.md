@@ -1,1 +1,3 @@
-# Data-_601_Pranaya
+# Data_601_
+- **Narava Pranay Manikanta.**
+- **MT50255**
