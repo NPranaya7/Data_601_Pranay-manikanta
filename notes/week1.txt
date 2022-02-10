@@ -1,0 +1,10 @@
+markdown cells are not formatted
+
+get_numbers_divisible_by_five: printing is not same as returning. 
+you should have returned a list of numbers
+
+3b should be shell command !pwd
+
+summary file should have been a text file not word file! 
+
+hw: 70
