@@ -1,0 +1,5 @@
+Good job with lab! Should've added labels to first 2 graphs in lab.
+In home work, V3 referred to plot means of multiple trials!
+
+lab: 95
+hw: 75
