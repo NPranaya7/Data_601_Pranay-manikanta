@@ -1,5 +1,5 @@
 Good job with lab and homework!
 However, in lab, question related to fastest flight meant least air time, not highest speed.
 
-hw: 95
-lab: 100
+hw: 100
+lab: 95
