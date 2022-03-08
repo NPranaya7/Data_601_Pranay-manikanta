@@ -1,0 +1,5 @@
+Should've explained about the plots in lab!
+Should've written short report about the insights from the plots in homework!
+
+hw: 80
+lab: 80
