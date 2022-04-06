@@ -1,0 +1,5 @@
+In lab, should've plotted the graph! Should've converted columns into a dataframe!
+In homework, should've converted age to integer format and then plotted a histogram since age by default is in string format.
+
+hw: 90
+lab: 75
