@@ -1,0 +1,4 @@
+Should've mentioned avg increase in terms of percentages as mentioned in the question!
+
+hw: 95
+lab: 100
